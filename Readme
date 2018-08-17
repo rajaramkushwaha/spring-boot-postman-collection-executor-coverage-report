@@ -1,3 +1,8 @@
+Pre-requsite:
+a) install node js, 
+b) cd .\src\test\resources\postman-collection-executor
+c) run npm install
+
 1. How to run test?
 	mvn clean test
 2. How run report
