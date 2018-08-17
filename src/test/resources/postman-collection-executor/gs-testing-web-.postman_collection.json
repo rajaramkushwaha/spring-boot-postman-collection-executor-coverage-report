@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "student-service",
+		"_postman_id": "f91488f2-ae19-471a-1b48-ce0d4e88bb9e",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Greet",
+			"request": {
+				"url": "http://{{host}}:{{port}}/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

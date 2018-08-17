@@ -1,0 +1,8 @@
+1. How to run test?
+	mvn clean test
+2. How run report
+	mvn jacoco:report
+3. How to view coverage report
+  target-->jacoco-->site-->index.html
+  Then navigate the classes.
+  
