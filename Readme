@@ -1,3 +1,8 @@
+
+What is the purpose of this repository:
+This is a sample project to showcase, how can we capture code coverage of spring boot alplication using postman cillection by running newmand js library on node js. 
+
+
 Pre-requsite:
 a) install node js, 
 b) cd .\src\test\resources\postman-collection-executor
